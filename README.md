@@ -1,4 +1,4 @@
-Old Unreal Engine project that I created to have some fun with vehicles.
+Old Unreal Engine project that I created to have some fun with vehicles
 
 ___________________________
 
